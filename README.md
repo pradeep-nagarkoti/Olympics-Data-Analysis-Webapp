@@ -33,16 +33,6 @@ This project is a Streamlit-based web application that allows users to interacti
 - Plotly
 - Scikit-learn
 
-## Project Structure
-
-
-📁 olympic-data-analysis/
-├── app.py                  # Main Streamlit app
-├── helper.py               # Logic for analysis and visualizations
-├── preprocessor.py         # Data cleaning and transformation
-├── Olympic data analysis.ipynb      # ML model and prediction logic
-├── README.md               # Project documentation
-
 ## [Download Dataset](https://www.kaggle.com/datasets/heesoo37/120-years-of-olympic-history-athletes-and-results)
 
 
